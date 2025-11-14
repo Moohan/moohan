@@ -4,7 +4,7 @@ I'm a Principal Information Analyst for [Public Health Scotland](https://www.pub
 
 I live in the beautiful region of Perthshire, Scotland, and I'm a big advocate for remote work. It gives me the flexibility to not only excel in my professional life but also serve my community as a retained firefighter.
 
-When I'm not wrangling data or responding to emergencies, I enjoy exploring my hobbyist interest in Java for Android app development.
+When I'm not wrangling data or responding to emergencies, I enjoy exploring my hobbyist interest in Python.
 
 ## Skills
 
@@ -12,7 +12,7 @@ Here are some of the technologies I work with:
 
 [![My Skills](https://skillicons.dev/icons?i=r,python,git,github,githubactions,docker)](https://skillicons.dev)
 
-I'm particularly proficient in R's `tidyverse` ecosystem for data manipulation and visualization.
+I'm particularly proficient in R's `tidyverse` ecosystem for data manipulation and visualization, and I have extensive experience in mentoring and training others in these skills.
 
 ## Projects
 
@@ -29,8 +29,6 @@ Here are some of the projects I'm proud to have worked on:
 *   **[phsmethods](https://github.com/Public-Health-Scotland/phsmethods):** A collection of standardized methods for common analytical tasks in Public Health Scotland, improving efficiency and reproducibility.
 *   **[phsopendata](https://github.com/Public-Health-Scotland/phsopendata):** A package that simplifies access to data from the Scottish Health and Social Care Open Data platform.
 *   **[phslookups](https://github.com/Public-Health-Scotland/phslookups):** A package for working with PHS lookup files.
-*   **[chicheck](https://github.com/Moohan/chicheck):** An R package for validating Community Health Index (CHI) numbers.
-*   **[phssensitivitylabels](https://github.com/Moohan/phssensitivitylabels):** An R package for applying sensitivity labels to documents.
 
 ## GitHub Stats
 
@@ -41,6 +39,4 @@ Here's a snapshot of my GitHub activity:
 
 ## Contact
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5380--2029-a6ce39?style=social&logo=orcid)](https://orcid.org/0000-0002-5380-2029)
-[![Mastodon](https://img.shields.io/badge/Mastodon-@james__mcmahon@mastodon.scot-6364ff?style=social&logo=mastodon)](https://mastodon.scot/@james_mcmahon)
-[![Bluesky](https://img.shields.io/badge/Bluesky-@strathview.uk-1da1f2?style=social&logo=bluesky)](https://bsky.app/profile/strathview.uk)
+I prefer to be contacted by email. You can reach me at the email address associated with my GitHub account.
