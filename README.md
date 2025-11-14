@@ -41,3 +41,7 @@ Here's a snapshot of my GitHub activity:
 ## Contact
 
 I prefer to be contacted by email. You can reach me at the email address associated with my GitHub account.
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5380--2029-a6ce39?style=social&logo=orcid)](https://orcid.org/0000-0002-5380-2029)
+[![Mastodon](https://img.shields.io/badge/Mastodon-@james__mcmahon@mastodon.scot-6364ff?style=social&logo=mastodon)](https://mastodon.scot/@james_mcmahon)
+[![Bluesky](https://img.shields.io/badge/Bluesky-@strathview.uk-1da1f2?style=social&logo=bluesky)](https://bsky.app/profile/strathview.uk)
