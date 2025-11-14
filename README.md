@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a Principal Information Analyst for [Public Health Scotland](https://www.publichealthscotland.scot/) with a passion for data and its power to drive meaningful insights. My journey into the world of data started with a Maths BSc from the [University of St Andrews](https://www.st-andrews.ac.uk/), and since then, I've been on an exciting ride through the ever-evolving landscape of data science.
+I'm James Hayes (née McMahon) (he/him), a Principal Information Analyst for [Public Health Scotland](https://www.publichealthscotland.scot/) with a passion for data and its power to drive meaningful insights. My journey into the world of data started with a Maths BSc from the [University of St Andrews](https://www.st-andrews.ac.uk/), and since then, I've been on an exciting ride through the ever-evolving landscape of data science.
 
-I live in the beautiful region of Perthshire, Scotland, and I'm a big advocate for remote work. It gives me the flexibility to not only excel in my professional life but also serve my community as a retained firefighter.
+I live in the beautiful region of [Perthshire, Scotland](https://en.wikipedia.org/wiki/Perthshire), and I'm a big advocate for remote work. Working for PHS in this way is excellent for maintaining a healthy work-life balance and ensuring I can maximize my time with my family. It also gives me the flexibility to serve my community as a retained firefighter.
 
 When I'm not wrangling data or responding to emergencies, I enjoy exploring my hobbyist interest in Python.
 
