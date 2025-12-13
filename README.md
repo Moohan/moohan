@@ -10,7 +10,7 @@ When I'm not wrangling data or responding to emergencies, I enjoy exploring my h
 
 Here are some of the technologies I work with:
 
-[![My Skills](https://skillicons.dev/icons?i=r,python,git,github,githubactions,docker)](https://skillicons.dev)
+[![Icons for R, Python, Git, GitHub, GitHub Actions, and Docker](https://skillicons.dev/icons?i=r,python,git,github,githubactions,docker)](https://skillicons.dev)
 
 I'm particularly proficient in R's `tidyverse` ecosystem for data manipulation and visualization, and I have extensive experience in mentoring and training others in these skills.
 
