@@ -36,12 +36,12 @@ Here are some of the projects I'm proud to have worked on:
 Here's a snapshot of my GitHub activity:
 
 [![Moohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moohan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moohan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![James's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moohan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 
 I prefer to be contacted by email. You can reach me at the email address associated with my GitHub account.
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5380--2029-a6ce39?style=social&logo=orcid)](https://orcid.org/0000-0002-5380-2029)
-[![Mastodon](https://img.shields.io/badge/Mastodon-@james__mcmahon@mastodon.scot-6364ff?style=social&logo=mastodon)](https://mastodon.scot/@james_mcmahon)
-[![Bluesky](https://img.shields.io/badge/Bluesky-@strathview.uk-1da1f2?style=social&logo=bluesky)](https://bsky.app/profile/strathview.uk)
+[![ORCID ID: 0000-0002-5380-2029](https://img.shields.io/badge/ORCID-0000--0002--5380--2029-a6ce39?style=social&logo=orcid)](https://orcid.org/0000-0002-5380-2029)
+[![Mastodon: @james_mcmahon@mastodon.scot](https://img.shields.io/badge/Mastodon-@james__mcmahon@mastodon.scot-6364ff?style=social&logo=mastodon)](https://mastodon.scot/@james_mcmahon)
+[![Bluesky: @strathview.uk](https://img.shields.io/badge/Bluesky-@strathview.uk-1da1f2?style=social&logo=bluesky)](https://bsky.app/profile/strathview.uk)
