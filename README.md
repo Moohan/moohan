@@ -10,7 +10,7 @@ When I'm not wrangling data or responding to emergencies, I enjoy exploring my h
 
 Here are some of the technologies I work with:
 
-[![Icons for R, Python, Git, GitHub, GitHub Actions, and Docker](https://skillicons.dev/icons?i=r,python,git,github,githubactions,docker)](https://skillicons.dev)
+[![My technical skills: R, Python, Git, GitHub, GitHub Actions, and Docker](https://skillicons.dev/icons?i=r,python,git,github,githubactions,docker)](https://skillicons.dev)
 
 I'm particularly proficient in R's `tidyverse` ecosystem for data manipulation and visualization, and I have extensive experience in mentoring and training others in these skills.
 
@@ -35,13 +35,13 @@ Here are some of the projects I'm proud to have worked on:
 
 Here's a snapshot of my GitHub activity:
 
-[![Moohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moohan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moohan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Moohan's GitHub stats card](https://github-readme-stats.vercel.app/api?username=Moohan&show_icons=true&theme=radical "My GitHub stats")](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages card](https://github-readme-stats.vercel.app/api/top-langs/?username=Moohan&layout=compact&theme=radical "My top languages")](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 
 I prefer to be contacted by email. You can reach me at the email address associated with my GitHub account.
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5380--2029-a6ce39?style=social&logo=orcid)](https://orcid.org/0000-0002-5380-2029)
-[![Mastodon](https://img.shields.io/badge/Mastodon-@james__mcmahon@mastodon.scot-6364ff?style=social&logo=mastodon)](https://mastodon.scot/@james_mcmahon)
-[![Bluesky](https://img.shields.io/badge/Bluesky-@strathview.uk-1da1f2?style=social&logo=bluesky)](https://bsky.app/profile/strathview.uk)
+[![ORCID profile for James Hayes with ID 0000-0002-5380-2029](https://img.shields.io/badge/ORCID-0000--0002--5380--2029-a6ce39?style=social&logo=orcid)](https://orcid.org/0000-0002-5380-2029)
+[![Mastodon profile for James Hayes (@james_mcmahon@mastodon.scot)](https://img.shields.io/badge/Mastodon-@james__mcmahon@mastodon.scot-6364ff?style=social&logo=mastodon)](https://mastodon.scot/@james_mcmahon)
+[![Bluesky profile for James Hayes (@strathview.uk)](https://img.shields.io/badge/Bluesky-@strathview.uk-1da1f2?style=social&logo=bluesky)](https://bsky.app/profile/strathview.uk)
