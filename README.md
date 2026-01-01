@@ -10,7 +10,7 @@ When I'm not wrangling data or responding to emergencies, I enjoy exploring my h
 
 Here are some of the technologies I work with:
 
-[![My technical skills: R, Python, Git, GitHub, GitHub Actions, and Docker](https://skillicons.dev/icons?i=r,python,git,github,githubactions,docker)](https://skillicons.dev)
+[![My technical skills: R, Python, Git, GitHub, GitHub Actions, and Docker](https://skillicons.dev/icons?i=r,python,git,github,githubactions,docker)](https://skillicons.dev "Visit skillicons.dev to create your own")
 
 I'm particularly proficient in R's `tidyverse` ecosystem for data manipulation and visualization, and I have extensive experience in mentoring and training others in these skills.
 
@@ -42,6 +42,6 @@ Here's a snapshot of my GitHub activity:
 
 I prefer to be contacted by email. You can reach me at the email address associated with my GitHub account.
 
-[![ORCID profile for James Hayes with ID 0000-0002-5380-2029](https://img.shields.io/badge/ORCID-0000--0002--5380--2029-a6ce39?style=social&logo=orcid)](https://orcid.org/0000-0002-5380-2029)
-[![Mastodon profile for James Hayes (@james_mcmahon@mastodon.scot)](https://img.shields.io/badge/Mastodon-@james__mcmahon@mastodon.scot-6364ff?style=social&logo=mastodon)](https://mastodon.scot/@james_mcmahon)
-[![Bluesky profile for James Hayes (@strathview.uk)](https://img.shields.io/badge/Bluesky-@strathview.uk-1da1f2?style=social&logo=bluesky)](https://bsky.app/profile/strathview.uk)
+[![ORCID profile for James Hayes with ID 0000-0002-5380-2029](https://img.shields.io/badge/ORCID-0000--0002--5380--2029-a6ce39?style=social&logo=orcid)](https://orcid.org/0000-0002-5380-2029 "Visit my ORCID profile")
+[![Mastodon profile for James Hayes (@james_mcmahon@mastodon.scot)](https://img.shields.io/badge/Mastodon-@james__mcmahon@mastodon.scot-6364ff?style=social&logo=mastodon)](https://mastodon.scot/@james_mcmahon "Follow me on Mastodon")
+[![Bluesky profile for James Hayes (@strathview.uk)](https://img.shields.io/badge/Bluesky-@strathview.uk-1da1f2?style=social&logo=bluesky)](https://bsky.app/profile/strathview.uk "Follow me on Bluesky")
