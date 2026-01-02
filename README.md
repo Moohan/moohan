@@ -20,16 +20,16 @@ Here are some of the projects I'm proud to have worked on:
 
 ### Major Projects
 
-*   **[Source Linkage Files](https://github.com/Public-Health-Scotland/source-linkage-files):** I played a key role in the management and development of source linkage files, which are crucial for connecting different health datasets and enabling powerful, large-scale research.
-*   **[Locality Profiles](https://github.com/Public-Health-Scotland/list-localities-profiles):** I led the creation of locality profiles, providing detailed health and social care data at a local level to help inform decision-making and improve services.
+*   **[Source Linkage Files](https://github.com/Public-Health-Scotland/source-linkage-files "View the Source Linkage Files repository on GitHub"):** I played a key role in the management and development of source linkage files, which are crucial for connecting different health datasets and enabling powerful, large-scale research.
+*   **[Locality Profiles](https://github.com/Public-Health-Scotland/list-localities-profiles "View the Locality Profiles repository on GitHub"):** I led the creation of locality profiles, providing detailed health and social care data at a local level to help inform decision-making and improve services.
 
 ### R Packages
 
-*   **[OctopusR](https://github.com/Moohan/octopusR):** An R package for interacting with the Octopus Energy API, allowing users to easily retrieve and analyze their energy data.
-*   **[phsmethods](https://github.com/Public-Health-Scotland/phsmethods):** A collection of standardized methods for common analytical tasks in Public Health Scotland, improving efficiency and reproducibility.
-*   **[phsopendata](https://github.com/Public-Health-Scotland/phsopendata):** A package that simplifies access to data from the Scottish Health and Social Care Open Data platform.
-*   **[phslookups](https://github.com/Public-Health-Scotland/phslookups):** A package for working with PHS lookup files.
-*   **[phstemplates](https://github.com/Public-Health-Scotland/phstemplates):** An R package for creating standardized R projects and documents at Public Health Scotland. The functionality from [`phssensitivitylabels`](https://github.com/Moohan/phssensitivitylabels) has been incorporated into this package.
+*   **[OctopusR](https://github.com/Moohan/octopusR "View the OctopusR repository on GitHub"):** An R package for interacting with the Octopus Energy API, allowing users to easily retrieve and analyze their energy data.
+*   **[phsmethods](https://github.com/Public-Health-Scotland/phsmethods "View the phsmethods repository on GitHub"):** A collection of standardized methods for common analytical tasks in Public Health Scotland, improving efficiency and reproducibility.
+*   **[phsopendata](https://github.com/Public-Health-Scotland/phsopendata "View the phsopendata repository on GitHub"):** A package that simplifies access to data from the Scottish Health and Social Care Open Data platform.
+*   **[phslookups](https://github.com/Public-Health-Scotland/phslookups "View the phslookups repository on GitHub"):** A package for working with PHS lookup files.
+*   **[phstemplates](https://github.com/Public-Health-Scotland/phstemplates "View the phstemplates repository on GitHub"):** An R package for creating standardized R projects and documents at Public Health Scotland. The functionality from [`phssensitivitylabels`](https://github.com/Moohan/phssensitivitylabels "View the phssensitivitylabels repository on GitHub") has been incorporated into this package.
 
 ## GitHub Stats
 
