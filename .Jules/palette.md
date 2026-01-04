@@ -1,5 +1,3 @@
-## 2024-07-25 - Semantic Heading Structure in Markdown
-
-**Learning:** The accessibility of a document, especially for screen reader users, is significantly impacted by a logical and consistent heading structure. Skipping heading levels (e.g., using an `<h3>` directly after an `<h1>`) disrupts the document's outline and can make it difficult to navigate.
-
-**Action:** When editing Markdown or HTML, I will always review the heading hierarchy to ensure it is sequential and semantically correct. This small check can make a big difference for accessibility.
+## 2024-07-25 - Semantic Heading Structure
+**Learning:** A logical, sequential heading structure (e.g., h1 -> h2 -> h3) in Markdown and HTML is critical for screen reader accessibility. Starting a document with a single H1 heading provides a clear entry point and allows users of assistive technology to easily understand the document's structure and navigate it effectively.
+**Action:** In future reviews of Markdown files or HTML content, I will always check that the document begins with a single H1 and that the heading hierarchy is followed correctly, without skipping levels.
