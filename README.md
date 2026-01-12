@@ -42,6 +42,6 @@ Here's a snapshot of my GitHub activity:
 
 I prefer to be contacted by email. You can reach me at the email address associated with my GitHub account.
 
-[![ORCID profile for James Hayes with ID 0000-0002-5380-2029](https.img.shields.io/badge/ORCID-0000--0002--5380--2029-a6ce39?style=social&logo=orcid "My ORCID profile")](https.orcid.org/0000-0002-5380-2029)
-[![Mastodon profile for James Hayes (@james_mcmahon@mastodon.scot)](https.img.shields.io/badge/Mastodon-@james__mcmahon@mastodon.scot-6364ff?style=social&logo=mastodon "My Mastodon profile")](https.mastodon.scot/@james_mcmahon)
-[![Bluesky profile for James Hayes (@strathview.uk)](https.img.shields.io/badge/Bluesky-@strathview.uk-1da1f2?style=social&logo=bluesky "My Bluesky profile")](https.bsky.app/profile/strathview.uk)
+[![ORCID profile for James Hayes with ID 0000-0002-5380-2029](https://img.shields.io/badge/ORCID-0000--0002--5380--2029-a6ce39?style=social&logo=orcid "My ORCID profile")](https://orcid.org/0000-0002-5380-2029)
+[![Mastodon profile for James Hayes (@james_mcmahon@mastodon.scot)](https://img.shields.io/badge/Mastodon-@james__mcmahon@mastodon.scot-6364ff?style=social&logo=mastodon "My Mastodon profile")](https://mastodon.scot/@james_mcmahon)
+[![Bluesky profile for James Hayes (@strathview.uk)](https://img.shields.io/badge/Bluesky-@strathview.uk-1da1f2?style=social&logo=bluesky "My Bluesky profile")](https://bsky.app/profile/strathview.uk)
