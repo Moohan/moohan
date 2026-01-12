@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm James Hayes (née McMahon) (he/him), a Principal Information Analyst for [Public Health Scotland](https://www.publichealthscotland.scot/ "Visit the Public Health Scotland website") with a passion for data and its power to drive meaningful insights. My journey into the world of data started with a Maths BSc from the [University of St Andrews](https://www.st-andrews.ac.uk/ "Visit the University of St Andrews website"), and since then, I've been on an exciting ride through the ever-evolving landscape of data science.
 
