@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm James Hayes (née McMahon) (he/him), a Principal Information Analyst for [Public Health Scotland](https://www.publichealthscotland.scot/ "Visit the Public Health Scotland website") with a passion for data and its power to drive meaningful insights. My journey into the world of data started with a Maths BSc from the [University of St Andrews](https://www.st-andrews.ac.uk/ "Visit the University of St Andrews website"), and since then, I've been on an exciting ride through the ever-evolving landscape of data science.
+I'm James Hayes (né McMahon) (he/him), a Principal Information Analyst for [Public Health Scotland](https://www.publichealthscotland.scot/ "Visit the Public Health Scotland website") with a passion for data and its power to drive meaningful insights. My journey into the world of data started with a Maths BSc from the [University of St Andrews](https://www.st-andrews.ac.uk/ "Visit the University of St Andrews website"), and since then, I've been on an exciting ride through the ever-evolving landscape of data science.
 
-I live in the beautiful region of [Perthshire, Scotland](https://en.wikipedia.org/wiki/Perthshire "Learn more about Perthshire on Wikipedia"), and I'm a big advocate for remote work. Working for PHS in this way is excellent for maintaining a healthy work-life balance and ensuring I can maximize my time with my family. It also gives me the flexibility to serve my community as a retained firefighter.
+I live in the beautiful region of [Perthshire, Scotland](https://en.wikipedia.org/wiki/Perthshire "Learn more about Perthshire on Wikipedia"), and I'm a big advocate for remote work. Working for PHS in this way is excellent for maintaining a healthy work-life balance and ensuring I can maximise my time with my family. It also gives me the flexibility to serve my community as a retained firefighter.
 
 When I'm not wrangling data or responding to emergencies, I enjoy exploring my hobbyist interest in Python.
 
@@ -12,7 +12,7 @@ Here are some of the technologies I work with:
 
 [![My technical skills: R, Python, Git, GitHub, GitHub Actions, and Docker](https://skillicons.dev/icons?i=r,python,git,github,githubactions,docker "My technical skills")](https://skillicons.dev)
 
-I'm particularly proficient in R's `tidyverse` ecosystem for data manipulation and visualization, and I have extensive experience in mentoring and training others in these skills.
+I'm particularly proficient in R's `tidyverse` ecosystem for data manipulation and visualisation, and I have extensive experience in mentoring and training others in these skills.
 
 ## Projects
 
@@ -25,8 +25,8 @@ Here are some of the projects I'm proud to have worked on:
 
 ### R Packages
 
-*   **[OctopusR](https://github.com/Moohan/octopusR "View the OctopusR package on GitHub"):** An R package for interacting with the Octopus Energy API, allowing users to easily retrieve and analyze their energy data.
-*   **[phsmethods](https://github.com/Public-Health-Scotland/phsmethods "View the phsmethods package on GitHub"):** A collection of standardized methods for common analytical tasks in Public Health Scotland, improving efficiency and reproducibility.
+*   **[OctopusR](https://github.com/Moohan/octopusR "View the OctopusR package on GitHub"):** An R package for interacting with the Octopus Energy API, allowing users to easily retrieve and analyse their energy data.
+*   **[phsmethods](https://github.com/Public-Health-Scotland/phsmethods "View the phsmethods package on GitHub"):** A collection of standardised methods for common analytical tasks in Public Health Scotland, improving efficiency and reproducibility.
 *   **[phsopendata](https://github.com/Public-Health-Scotland/phsopendata "View the phsopendata package on GitHub"):** A package that simplifies access to data from the Scottish Health and Social Care Open Data platform.
 *   **[phslookups](https://github.com/Public-Health-Scotland/phslookups "View the phslookups package on GitHub"):** A package for working with PHS lookup files.
 *   **[phstemplates](https://github.com/Public-Health-Scotland/phstemplates "View the phstemplates package on GitHub"):** An R package for creating standardized R projects and documents at Public Health Scotland. The functionality from [~~`phssensitivitylabels`~~](https://github.com/Moohan/phssensitivitylabels "View the phssensitivitylabels package on GitHub") has been incorporated into this package.
