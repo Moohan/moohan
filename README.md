@@ -35,13 +35,13 @@ Here are some of the projects I'm proud to have worked on:
 
 Here's a snapshot of my GitHub activity:
 
-[![A GitHub stats card showing James Hayes's contributions, stars, commits, and PRs.](https://github-readme-stats.vercel.app/api?username=Moohan&show_icons=true&theme=radical "My GitHub stats")](https://github.com/anuraghazra/github-readme-stats)
-[![A card showing James Hayes's top languages on GitHub.](https://github-readme-stats.vercel.app/api/top-langs/?username=Moohan&layout=compact&theme=radical "My top languages")](https://github.com/anuraghazra/github-readme-stats)
+[![Link to my GitHub stats: a card showing James Hayes's contributions, stars, commits, and PRs.](https://github-readme-stats.vercel.app/api?username=Moohan&show_icons=true&theme=radical "My GitHub stats")](https://github.com/anuraghazra/github-readme-stats)
+[![Link to my top languages on GitHub: a card showing James Hayes's top languages.](https://github-readme-stats.vercel.app/api/top-langs/?username=Moohan&layout=compact&theme=radical "My top languages")](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 
 I prefer to be contacted by email. You can reach me at the email address associated with my GitHub account.
 
-[![ORCID profile for James Hayes with ID 0000-0002-5380-2029](https://img.shields.io/badge/ORCID-0000--0002--5380--2029-a6ce39?style=social&logo=orcid "My ORCID profile")](https://orcid.org/0000-0002-5380-2029)
-[![Mastodon profile for James Hayes (@james_mcmahon@mastodon.scot)](https://img.shields.io/badge/Mastodon-@james__mcmahon@mastodon.scot-6364ff?style=social&logo=mastodon "My Mastodon profile")](https://mastodon.scot/@james_mcmahon)
-[![Bluesky profile for James Hayes (@strathview.uk)](https://img.shields.io/badge/Bluesky-@strathview.uk-1da1f2?style=social&logo=bluesky "My Bluesky profile")](https://bsky.app/profile/strathview.uk)
+[![Link to my ORCID profile: ORCID profile for James Hayes with ID 0000-0002-5380-2029](https://img.shields.io/badge/ORCID-0000--0002--5380--2029-a6ce39?style=social&logo=orcid "My ORCID profile")](https://orcid.org/0000-0002-5380-2029)
+[![Link to my Mastodon profile: Mastodon profile for James Hayes (@james_mcmahon@mastodon.scot)](https://img.shields.io/badge/Mastodon-@james__mcmahon@mastodon.scot-6364ff?style=social&logo=mastodon "My Mastodon profile")](https://mastodon.scot/@james_mcmahon)
+[![Link to my Bluesky profile: Bluesky profile for James Hayes (@strathview.uk)](https://img.shields.io/badge/Bluesky-@strathview.uk-1da1f2?style=social&logo=bluesky "My Bluesky profile")](https://bsky.app/profile/strathview.uk)
