@@ -35,8 +35,8 @@ Here are some of the projects I'm proud to have worked on:
 
 Here's a snapshot of my GitHub activity:
 
-[![A GitHub stats card showing James Hayes's contributions, stars, commits, and PRs.](https://github-readme-stats.vercel.app/api?username=Moohan&show_icons=true&theme=radical "My GitHub stats")](https://github.com/anuraghazra/github-readme-stats)
-[![A card showing James Hayes's top languages on GitHub.](https://github-readme-stats.vercel.app/api/top-langs/?username=Moohan&layout=compact&theme=radical "My top languages")](https://github.com/anuraghazra/github-readme-stats)
+[![A GitHub stats card showing James Hayes's contributions, stars, commits, and PRs.](https://github-readme-stats.vercel.app/api?username=Moohan&show_icons=true&theme=radical "My GitHub stats")](https://github.com/anuraghazra/github-readme-stats "View the source for the GitHub stats card")
+[![A card showing James Hayes's top languages on GitHub.](https://github-readme-stats.vercel.app/api/top-langs/?username=Moohan&layout=compact&theme=radical "My top languages")](https://github.com/anuraghazra/github-readme-stats "View the source for the GitHub stats card")
 
 ## Contact
 
