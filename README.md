@@ -29,7 +29,7 @@ Here are some of the projects I'm proud to have worked on:
 *   **[phsmethods](https://github.com/Public-Health-Scotland/phsmethods "View the phsmethods package on GitHub"):** A collection of standardised methods for common analytical tasks in Public Health Scotland, improving efficiency and reproducibility.
 *   **[phsopendata](https://github.com/Public-Health-Scotland/phsopendata "View the phsopendata package on GitHub"):** A package that simplifies access to data from the Scottish Health and Social Care Open Data platform.
 *   **[phslookups](https://github.com/Public-Health-Scotland/phslookups "View the phslookups package on GitHub"):** A package for working with PHS lookup files.
-*   **[phstemplates](https://github.com/Public-Health-Scotland/phstemplates "View the phstemplates package on GitHub"):** An R package for creating standardised R projects and documents at Public Health Scotland. The functionality from [~~`phssensitivitylabels`~~](https://github.com/Moohan/phssensitivitylabels "View the phssensitivitylabels package on GitHub") has been incorporated into this package.
+*   **[phstemplates](https://github.com/Public-Health-Scotland/phstemplates "View the phstemplates package on GitHub"):** An R package for creating standardised R projects and documents at Public Health Scotland. The functionality from [~~`phssensitivitylabels`~~](https://github.com/Moohan/phssensitivitylabels "View the phssensitivitylabels package on GitHub") (deprecated) has been incorporated into this package.
 
 ## GitHub Stats
 
