@@ -10,7 +10,7 @@ When I'm not wrangling data or responding to emergencies, I enjoy exploring my h
 
 Here are some of the technologies I work with:
 
-![My technical skills: R, Python, Git, GitHub, GitHub Actions, and Docker](https://skillicons.dev/icons?i=r,python,git,github,githubactions,docker "My technical skills")
+[![My technical skills: R, Python, Git, GitHub, GitHub Actions, and Docker](https://skillicons.dev/icons?i=r,python,git,github,githubactions,docker "My technical skills")](https://skillicons.dev)
 
 I'm particularly proficient in R's `tidyverse` ecosystem for data manipulation and visualisation, and I have extensive experience in mentoring and training others in these skills.
 
@@ -25,6 +25,7 @@ Here are some of the projects I'm proud to have worked on:
 
 ### R Packages
 
+*   **[chicheck](https://github.com/Moohan/chicheck "View the chicheck package on GitHub"):** An R package for validating and formatting Community Health Index (CHI) numbers, the unique identifiers for patients in the Scottish NHS.
 *   **[OctopusR](https://github.com/Moohan/octopusR "View the OctopusR package on GitHub"):** An R package for interacting with the Octopus Energy API, allowing users to easily retrieve and analyse their energy data.
 *   **[phsmethods](https://github.com/Public-Health-Scotland/phsmethods "View the phsmethods package on GitHub"):** A collection of standardised methods for common analytical tasks in Public Health Scotland, improving efficiency and reproducibility.
 *   **[phsopendata](https://github.com/Public-Health-Scotland/phsopendata "View the phsopendata package on GitHub"):** A package that simplifies access to data from the Scottish Health and Social Care Open Data platform.
@@ -35,8 +36,8 @@ Here are some of the projects I'm proud to have worked on:
 
 Here's a snapshot of my GitHub activity:
 
-[![A GitHub stats card showing James Hayes's contributions, stars, commits, and PRs.](https://github-readme-stats.vercel.app/api?username=Moohan&show_icons=true&theme=radical "My GitHub stats")](https://github.com/anuraghazra/github-readme-stats)
-[![A card showing James Hayes's top languages on GitHub.](https://github-readme-stats.vercel.app/api/top-langs/?username=Moohan&layout=compact&theme=radical "My top languages")](https://github.com/anuraghazra/github-readme-stats)
+[![A GitHub stats card showing James Hayes's contributions, stars, commits, and PRs.](https://github-readme-stats.vercel.app/api?username=Moohan&show_icons=true&theme=radical "My GitHub stats")](https://github.com/Moohan)
+[![A card showing James Hayes's top languages on GitHub.](https://github-readme-stats.vercel.app/api/top-langs/?username=Moohan&layout=compact&theme=radical "My top languages")](https://github.com/Moohan)
 
 ## Contact
 
