@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">James Hayes (n&#233; McMahon)'s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 9, Total Commits  (last year) : 1599, Total PRs: 1259, Total Issues: 397, Contributed to (last year): 34</desc>
+        <desc id="descId">Total Stars Earned: 9, Total Commits  (last year) : 1618, Total PRs: 1264, Total Issues: 397, Contributed to (last year): 34</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 79.54955312438304;
+        stroke-dashoffset: 79.52402888730825;
       }
     }
   
